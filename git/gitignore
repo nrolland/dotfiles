@@ -9,6 +9,7 @@ elpa/**
 places
 emacs-init.el
 structured-haskell-mode
+MAlonzo/**
 
 # OSX       taken from: https://github.com/github/gitignore/blob/master/Global/OSX.gitignore
 # ----------------------------------------------------------------------------------------------
