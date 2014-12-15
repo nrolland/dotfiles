@@ -1,3 +1,15 @@
+*.agdai
+*.lagdai
+\#*
+.\#*
+dist
+.cask/**
+.ido*
+elpa/**
+places
+emacs-init.el
+structured-haskell-mode
+
 # OSX       taken from: https://github.com/github/gitignore/blob/master/Global/OSX.gitignore
 # ----------------------------------------------------------------------------------------------
 .DS_Store
