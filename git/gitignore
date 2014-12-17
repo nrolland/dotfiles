@@ -10,6 +10,7 @@ places
 emacs-init.el
 structured-haskell-mode
 MAlonzo/**
+tmp/**
 
 # OSX       taken from: https://github.com/github/gitignore/blob/master/Global/OSX.gitignore
 # ----------------------------------------------------------------------------------------------
