@@ -11,6 +11,7 @@ emacs-init.el
 structured-haskell-mode
 **/MAlonzo/
 **/tmp/
+**/_darcs/
 
 # OSX       taken from: https://github.com/github/gitignore/blob/master/Global/OSX.gitignore
 # ----------------------------------------------------------------------------------------------
